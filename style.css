@@ -1,0 +1,129 @@
+#c1{
+    font-family: 'Papyrus'; 
+    font-size: 19px;
+}
+#c2{
+    display: flex;
+    font-family: 'Times New Roman', Times, serif;
+        font-weight: normal;
+        font-size: 20px; 
+        background-color: rgb(38, 40, 40);
+        padding: 20px;
+        text-transform: uppercase;
+        width: 65%;
+        height: 40%;
+        text-shadow: 1px 1px 3px;
+        box-shadow: 3px 3px 10px;
+        justify-content: center;
+        color:white;
+        margin-top: 10px; margin-bottom: 10px;text-align: center;
+}
+#nn1{
+    width: 69%;
+    height:600px;
+    background-color: powderblue;
+    border:3px outset darkblue;
+}
+#nn2{
+    margin-top: 10px;
+
+    justify-content: center;
+    padding: 5px;
+    border-radius: 5px;
+
+    
+}
+#dd1{
+    align-items: center;
+    text-align: left;
+    margin-left: 165px;
+    margin-right: -160px;
+    
+}
+#nn3{
+    
+    padding-left: 20px;
+}
+#nn6{
+    width: 69%;
+    height:200px;
+    background-color: powderblue;
+    border:3px outset darkblue;
+}
+#nn5{
+    margin-top: 20px;
+    height: 50%;
+    justify-content: center;
+    padding: 5px;
+    border-radius: 3px;
+    border: 5px darkslategrey;
+    padding-left: 20px;
+    padding-right: -10px;
+    margin-left: -5%;
+
+}
+#nn4{
+    margin-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+#nn8{
+    width: 69%;
+    height:960px;
+    background-color: powderblue;
+    border:3px outset darkblue;
+}
+#nn7{
+    margin-top: 10px;
+    box-sizing: 10px;
+    justify-content: center;
+    padding: 2px;
+    border-radius: 3px;
+    width: 90px;
+}
+#nn10{
+    margin-top: 10px;
+    box-sizing: 10px;
+    justify-content: center;
+    padding: 2px;
+    border-radius: 3px;
+    width: 40px
+}
+#nn11{
+    padding: 8px;
+    background-color: rgb(19, 26, 130);
+    color:white;
+    border-radius: 5px;
+    padding-right: 8px;
+    margin-right: 20px;
+    box-shadow: 3px 3px 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+
+}
+#nn11:hover{
+    text-shadow: 1px 1px 3px;
+    background-color: blue;
+
+}
+#a1{
+    text-decoration: none;
+    
+    padding: 8px;
+    background-color: rgb(19, 26, 130);
+    color:white;
+    border-radius: 5px;
+    padding-right: 8px;
+    margin-right: 20px;
+    box-shadow: 3px 3px 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+   
+
+}
+#a1:hover{
+    text-shadow: 1px 1px 3px;
+    background-color: blue;
+}
